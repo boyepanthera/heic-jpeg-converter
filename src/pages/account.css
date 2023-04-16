@@ -1,0 +1,8 @@
+.container {
+  width: 100vw;
+}
+
+.dropzone-wrapper {
+  border: 2px dashed gray;
+  padding: 100px;
+}
